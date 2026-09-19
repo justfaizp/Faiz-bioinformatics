@@ -1,4 +1,6 @@
 # Faiz-bioinformatics
 my first repository
 <br>
-<b>this is the next line<b>
+this is the next line
+<b>this line is in bold<b>
+<i>this line is in italic<i>
