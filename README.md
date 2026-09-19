@@ -2,6 +2,7 @@
 my first repository
 <br>
 this is the next line
+<br>
 <b>this line is in bold<b>
 <br>
 <i>this line is in italic<i>
