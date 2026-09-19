@@ -10,3 +10,5 @@ this is the next line
 <u> this line is underlined <u>
 <br>
 <b><i><u> this line is in bold,italic and underlined <u><i><b>
+<br>
+Colours: <details> red, yellow, green, orange, black, pink <details>
