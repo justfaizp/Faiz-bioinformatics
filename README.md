@@ -7,6 +7,6 @@ this is the next line
 <br>
 <i>this line is in italic<i>
 <br>
-<U>this line is underlined<U>
+<u>this line is underlined<u>
 <br>
 <b><i><u>this line is in bold,italic and underlined<u><i><b>
