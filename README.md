@@ -8,3 +8,4 @@ this is the next line
 <i>this line is in italic<i>
 <br>
 <u>this line is underlined<u>
+<b><i><u>this line is in bold,italic and underlined<u><i><b>
